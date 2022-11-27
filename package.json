@@ -1,0 +1,23 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Simple Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidistbezabih/Dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kidistbezabih/Dashboard/issues"
+  },
+  "homepage": "https://github.com/kidistbezabih/Dashboard#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
